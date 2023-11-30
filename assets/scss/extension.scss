@@ -97,17 +97,17 @@ $title-grey: #e4e4e4;
 }
 
 /*--------------------------------------------------------------
-# about нас)
+# About
 --------------------------------------------------------------*/
 .about .icon-box-cyan .icon i {
 	color: rgb(104, 164, 196);
 }
 
 /*--------------------------------------------------------------
-# about-details (News)
+# News
 --------------------------------------------------------------*/
 
-.service-details .card {
+.news .card {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -119,12 +119,12 @@ $title-grey: #e4e4e4;
 	position: relative;
 }
 
-.service-details .card-img {
+.news .card-img {
 	flex: 1 1 380px;
 }
  
 
-.service-details .card-img img {
+.news .card-img img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
@@ -134,7 +134,7 @@ $title-grey: #e4e4e4;
 
  }
  
- .service-details .card-body {
+ .news .card-body {
 	z-index: 10;
 	max-width: 92.50%;
 	background: #fff;
@@ -145,7 +145,7 @@ $title-grey: #e4e4e4;
 	transition: 0.3s;
  }
 
-.service-details .card-title {
+.news .card-title {
 	font-weight: 700;
 	text-align: center;
 	margin-bottom: 15px;
@@ -154,12 +154,12 @@ $title-grey: #e4e4e4;
  }
  
  
- .service-details .card-text {
+ .news .card-text {
 	color: #5e5e5e;
 	font-size: 15px;
  }
 
-.service-details .card-meta .read-more a {
+.news .card-meta .read-more a {
 	color: #777777;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -167,19 +167,19 @@ $title-grey: #e4e4e4;
 	transition: 0.3s;
  }
  
- .service-details .read-more a:hover {
+ .news .read-more a:hover {
 	color: #68A4C4;
  }
  
 
-.service-details .card-meta .date {
+.news .card-meta .date {
 	font-size: 14px;
 	color: #1e4356;
  }
 
 @media(max-width: 1400px) {
 
-	.service-details .card-img {
+	.news .card-img {
 		flex: 1 1 auto;
 	}
 
@@ -187,19 +187,19 @@ $title-grey: #e4e4e4;
 
 @media(max-width: 592px) {
 
-	.service-details .card-body {
+	.news .card-body {
 		margin-top: -20px;
 	}
 	
-	.service-details .card-title {
+	.news .card-title {
 		font-size: 14px;
 		margin-bottom: 7px;
 	 }
 	 
-	 
-	 .service-details .card-text {
+	 .news .card-text {
 		font-size: 13px;
 		margin-bottom: 7px;
 	 }
 
 }
+

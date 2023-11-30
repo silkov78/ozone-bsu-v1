@@ -1123,14 +1123,14 @@ section {
 /*--------------------------------------------------------------
 # Service Details
 --------------------------------------------------------------*/
-.service-details {
+.news {
   padding-bottom: 10px;
 }
 
 
 /* ----------------DISABLED ----------------- */
 /* 
-.service-details .card {
+.news .card {
   background-color: transparent;
   border: 0;
   padding: 0 30px;
@@ -1138,7 +1138,7 @@ section {
   position: relative;
 }
 
-.service-details .card-img {
+.news .card-img {
   width: calc(100% + 60px);
   margin-left: -13px;
   overflow: hidden;
@@ -1147,12 +1147,12 @@ section {
 } */
 
 
-/* .service-details .card-img img {
+/* .news .card-img img {
   max-width: 100%;
   transition: all 0.3s ease-in-out;
 }
 
-.service-details .card-body {
+.news .card-body {
   z-index: 10;
   background: #fff;
   border-top: 4px solid #fff;
@@ -1164,24 +1164,24 @@ section {
 
 
 
-.service-details .card-title {
+.news .card-title {
   font-weight: 700;
   text-align: center;
   margin-bottom: 20px;
 }
 
-.service-details .card-title a {
+.news .card-title a {
   color: #1e4356;
   transition: 0.3s;
 }
 
-.service-details .card-text {
+.news .card-text {
   color: #5e5e5e;
 }
 
 
 
-.service-details .read-more a {
+.news .read-more a {
   color: #777777;
   text-transform: uppercase;
   font-weight: 600;
@@ -1189,7 +1189,7 @@ section {
   transition: 0.3s;
 }
 
-.service-details .read-more a:hover {
+.news .read-more a:hover {
   color: #68A4C4;
 }*/
 
@@ -1200,7 +1200,7 @@ section {
 
 /* ----------------DISABLED ----------------- */
 
-/* .service-details .card:hover img {
+/* .news .card:hover img {
   transform: scale(1.1);
 } */
 
@@ -1208,11 +1208,11 @@ section {
 
 
 
-.service-details .card:hover .card-body {
+.news .card:hover .card-body {
   border-color: #68A4C4;
 }
 
-.service-details .card:hover .card-body .card-title a {
+.news .card:hover .card-body .card-title a {
   color: #68A4C4;
 }
 
