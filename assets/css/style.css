@@ -1339,6 +1339,10 @@ section {
   padding-bottom: 60px;
 }
 
+
+/* ----------------DISABLED ----------------- */
+
+/* 
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 0 35px 0;
@@ -1364,9 +1368,13 @@ section {
 .portfolio #portfolio-flters li.filter-active {
   border-color: #68A4C4;
   color: #68A4C4;
-}
+} */
 
-.portfolio .portfolio-item {
+/* ----------------DISABLED ----------------- */
+
+
+/* ----------------DISABLED ----------------- */
+/* .portfolio .portfolio-item {
   background: #1e4356;
   overflow: hidden;
   min-height: 200px;
@@ -1387,9 +1395,11 @@ section {
   top: 10%;
   left: 0;
   right: 0;
-}
+} */
+/* ----------------DISABLED ----------------- */
 
-.portfolio .portfolio-item .portfolio-info h3 {
+
+/* .portfolio .portfolio-item .portfolio-info h3 {
   font-size: 22px;
   color: #fff;
   font-weight: bold;
@@ -1403,7 +1413,10 @@ section {
 
 .portfolio .portfolio-item .portfolio-info a i:hover {
   color: white;
-}
+} */
+
+/* ----------------DISABLED ----------------- */
+
 
 .portfolio .portfolio-item:hover img {
   opacity: 0.6;
