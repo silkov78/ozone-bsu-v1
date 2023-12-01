@@ -280,6 +280,25 @@ $title-grey: #e4e4e4;
 	font-weight: 500;
 }
 
+.observ-info ul {
+	list-style: none;
+	padding: 0;
+}
+
+.observ-info ul li {
+	padding-bottom: 10px;
+}
+
+.observ-info ul i {
+	font-size: 20px;
+	padding-right: 4px;
+	color: #68A4C4;
+}
+
+.observ-info p:last-child {
+	margin-bottom: 0;
+}
+ 
 
 /*--------------------------------------------------------------
 # Table
