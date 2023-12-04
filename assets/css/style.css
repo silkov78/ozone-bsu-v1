@@ -1819,7 +1819,10 @@ section {
   font-weight: bold;
 }
 
-.blog .entry .entry-content blockquote {
+/* ----------------DISABLED ----------------- */
+
+
+/* .blog .entry .entry-content blockquote {
   overflow: hidden;
   background-color: #fafafa;
   padding: 60px;
@@ -1847,7 +1850,11 @@ section {
   background-color: #1e4356;
   margin-top: 20px;
   margin-bottom: 20px;
-}
+} */
+
+
+/* ----------------DISABLED ----------------- */
+
 
 .blog .entry .entry-footer {
   padding-top: 10px;
